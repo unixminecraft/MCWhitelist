@@ -1,0 +1,4 @@
+name: MCWhitelist
+main: org.unixminecraft.mcwhitelist.bungeecord.MCWhitelist
+authors: ['unixadmin']
+version: 0.0.1
